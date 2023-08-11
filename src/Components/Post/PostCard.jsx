@@ -79,7 +79,7 @@ const PostCard = () => {
         </div>
         <div  className="w-full py-2 px-5">
           <p>10 likes</p>
-          <p className="opacity-50 py-2 cursor-pointer">10 comments</p>
+          <p className="opacity-50 py-2 cursor-pointer">view all 10 comments</p>
         </div>
         <div className="border border-t w-full">
           <div className="flex justify-between items-center px-5 py-3">
